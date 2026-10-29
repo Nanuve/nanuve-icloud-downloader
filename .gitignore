@@ -1,0 +1,10 @@
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+.venv/
+.venv-build/
+icloudpd.exe
+nanuve_icloud_downloader.log
+.nanuve_icloud_downloader.json
